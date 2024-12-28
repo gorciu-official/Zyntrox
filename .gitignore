@@ -1,0 +1,5 @@
+node_modules
+dist
+
+# this will rebuild automatically, so delete it
+package-lock.json
